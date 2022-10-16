@@ -67,5 +67,11 @@ Conference: NIPS 2017
 ![Transformer](../image_for_README/Transformer.png)
 </center>
 
-如同一般 Seq2seq，也是 encoder-decoder 架構
+如同一般 Seq2seq，也是 encoder-decoder 架構  
+以下就由該架構的各個部分去做介紹
 
+* Encoder
+<center>
+
+![Transformer](../image_for_README/Transformer_Encoder.png)
+</center>
