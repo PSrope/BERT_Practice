@@ -71,7 +71,15 @@ Conference: NIPS 2017
 以下就由該架構的各個部分去做介紹
 
 * Encoder
-<center>
+  Encoder 為下圖圈起來的部分：
 
-![Transformer](../image_for_README/Transformer_Encoder.png)
-</center>
+  <center>
+
+  ![Transformer](../image_for_README/Transformer_Encoder.png)
+  </center>
+
+  - 一個 Encoder 其實是由很多個框框內的架構堆疊而成，N 即是代表堆疊的層數。論文中的 N = 6
+  - 主要可整理成兩個 Sub-layers
+    - Multi-head self-attention Layer (Attention 架構)
+    - position-wise fully connected feed-forward network (全連接層)
+  - 每層 Sub-layer 都會分別對其輸入、輸出做殘差 (residual) 運算
