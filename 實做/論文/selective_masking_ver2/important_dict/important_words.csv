@@ -1,0 +1,1792 @@
+word,business,entertainment,sport,tech,politics
+3-d,0,1,0,0,0
+3d,0,1,0,0,0
+access,0,0,0,1,0
+access to the internet,0,0,0,1,0
+accoun,1,0,0,0,0
+account number,1,0,0,0,0
+accountant,1,0,0,0,0
+accounting,1,0,0,0,0
+accounts,1,0,0,0,0
+accruals,1,0,0,0,0
+accusation,0,0,0,0,1
+acolyte,0,0,0,0,1
+acrobatics,0,1,0,0,0
+actively managed funds,1,0,0,0,0
+activist,0,0,0,0,1
+actor,0,1,0,0,0
+actors,0,1,0,0,0
+actress,0,1,0,0,0
+actresses,0,1,0,0,0
+actuary,1,0,0,0,0
+administration,1,0,0,0,0
+ads,1,0,0,0,0
+advance,0,0,0,1,0
+advanced,0,0,0,1,0
+advances in technology,0,0,0,1,0
+advertise,1,0,0,0,0
+advisor,1,0,0,0,0
+advocate,0,0,0,0,1
+aer,1,0,0,0,0
+aerobatics,0,1,0,0,0
+aerobics,0,0,1,0,0
+affiliate marketing,1,0,0,1,0
+affordable,1,0,0,0,0
+after-hours dealing,1,0,0,0,0
+agenda,1,0,0,0,0
+agm,1,0,0,0,0
+agon,0,1,0,0,0
+agreement,1,0,0,0,0
+ai,0,0,0,1,0
+airshow,0,1,0,0,0
+album,0,1,0,0,0
+all-dayer,0,1,0,0,0
+all-nighter,0,1,0,0,0
+all-star,0,0,1,0,0
+allegation,0,0,0,0,1
+alliance,0,0,0,0,1
+allocation rate,1,0,0,0,0
+ally,0,0,0,0,1
+alternative investment market,1,0,0,0,0
+amateur,0,0,1,0,0
+american football,0,0,1,0,0
+amphitheater,0,1,0,0,0
+analyze,0,0,0,1,0
+anarchism,0,0,0,0,1
+anglosphere,0,0,0,0,1
+animation,0,1,0,0,0
+annual bonus,1,0,0,0,0
+annual equivalent rate,1,0,0,0,0
+annual general meeting,1,0,0,0,0
+annual percentage rate,1,0,0,0,0
+annuity,1,0,0,0,0
+anonymity,0,0,0,0,1
+antimasque,0,1,0,0,0
+api,0,0,0,1,0
+app,0,0,0,1,0
+applaud,0,1,0,0,0
+application,0,0,0,1,0
+application programming interface,0,0,0,1,0
+apply something to something,0,0,0,1,0
+apps,0,0,0,1,0
+apr,1,0,0,0,0
+après-ski,0,1,0,0,0
+aquashow,0,1,0,0,0
+ar,0,0,0,1,0
+arbitrage,1,0,0,0,0
+arbitration,1,0,0,0,0
+archer,0,0,1,0,0
+archery,0,0,1,0,0
+arena,0,0,1,0,0
+arithmetic mean,1,0,0,0,0
+arrow,0,0,1,0,0
+art,0,1,0,0,0
+artificial intelligence,0,0,0,1,0
+artist,0,1,0,0,0
+aspiration,0,0,0,0,1
+assail,0,0,0,0,1
+asset stripping,1,0,0,0,0
+assist,0,0,1,0,0
+athlete,0,0,1,0,0
+athletics,0,0,1,0,0
+atm,1,0,0,0,0
+atm card,1,0,0,0,0
+audience,0,1,0,0,0
+auditors,1,0,0,0,0
+augmented reality,0,0,0,1,0
+austerity,0,0,0,0,1
+authoritarian,0,0,0,0,1
+autocracy,0,0,0,0,1
+autonomous,0,0,0,0,1
+average,1,0,0,0,0
+average earnings growth,1,0,0,0,0
+award,0,0,1,0,0
+awards,0,1,0,0,0
+away,0,0,1,0,0
+axel,0,0,1,0,0
+b and s,0,1,0,0,0
+back end,0,0,0,1,0
+back up,0,0,0,1,0
+back up your files,0,0,0,1,0
+backbencher,0,0,0,0,1
+badminton,0,0,1,0,0
+bailout,1,0,0,0,1
+balance,1,0,0,0,0
+balance of payments,1,0,0,0,0
+balance sheet,1,0,0,0,0
+ball,0,1,1,0,0
+ballerina,0,1,0,0,0
+ballet,0,1,0,0,0
+ballot,0,0,0,0,1
+ballot box,0,0,0,0,1
+ballot paper,0,0,0,0,1
+bamboozle,0,0,0,0,1
+band,0,1,0,0,0
+bank,1,0,0,0,0
+banker's draft,1,0,0,0,0
+banking,1,0,0,0,0
+banquet,0,1,0,0,0
+bar,0,1,0,0,0
+baroque,0,1,0,0,0
+base,0,0,1,0,0
+base rate,1,0,0,0,0
+baseball,0,0,1,0,0
+basketball,0,0,1,0,0
+bat,0,0,1,0,0
+baton,0,0,1,0,0
+batter,0,0,1,0,0
+battery,0,0,0,1,0
+batting,0,0,1,0,0
+battleground state,0,0,0,0,1
+bear market,1,0,0,0,0
+beat,0,0,1,0,0
+become rapidly obsolete,0,0,0,1,0
+beleaguer,0,0,0,0,1
+benefit,0,0,0,0,1
+benefits,1,0,0,0,1
+biased,0,0,0,0,1
+biathlon,0,0,1,0,0
+bicycle,0,0,1,0,0
+bicycling,0,0,1,0,0
+bid-offer spread,1,0,0,0,0
+big data,0,0,0,1,0
+big government,0,0,0,0,1
+bike,0,0,1,0,0
+biking,0,0,1,0,0
+bill,0,0,0,0,1
+bill of lading,1,0,0,0,0
+billiards,0,0,1,0,0
+bingo hall,0,1,0,0,0
+bipartisan,0,0,0,0,1
+black swan,1,0,0,0,0
+blame,0,0,0,0,1
+block,0,0,1,0,0
+blue chip,1,0,0,0,0
+board,1,0,0,0,0
+board of directors,1,0,0,0,0
+bobsleigh,0,0,1,0,0
+bocce,0,0,1,0,0
+bond,1,0,0,0,0
+bonus,1,0,0,0,0
+boo,0,1,0,0,0
+bookkeeping,1,0,0,0,0
+boomerang,0,0,1,0,0
+boot,0,0,0,1,0
+boot up,0,0,0,1,0
+borrow,1,0,0,0,0
+boss,1,0,0,0,0
+bottom line,1,0,0,0,0
+boules,0,0,1,0,0
+bounce rate,0,1,0,1,0
+bow,0,0,1,0,0
+bowler,0,0,1,0,0
+bowling,0,0,1,0,0
+bowling alley,0,1,0,0,0
+boxer,0,0,1,0,0
+boxing,0,0,1,0,0
+boxing ring,0,0,1,0,0
+branch,1,0,0,0,0
+break even,1,0,0,0,0
+breakthrough,0,0,0,1,0
+bribe,0,0,0,0,1
+bridging loan,1,0,0,0,0
+briefcase,1,0,0,0,0
+british retail consortium,1,0,0,0,0
+broker,1,0,0,0,0
+bronze medal,0,0,1,0,0
+browse,0,0,0,1,0
+budget,1,0,0,0,1
+bug,0,0,0,1,0
+bugs,0,0,0,1,0
+buildings insurance,1,0,0,0,0
+bull market,1,0,0,0,0
+bullfighting,0,1,0,0,0
+bunt,0,0,1,0,0
+bureaucracy,0,0,0,0,1
+burlesque show,0,1,0,0,0
+business,1,0,0,0,0
+business card,1,0,0,0,0
+business cycle,1,0,0,0,0
+busking,0,1,0,0,0
+buy,1,0,0,0,0
+buy-out,1,0,0,0,0
+buy-to-let mortgage,1,0,0,0,0
+buyer,1,0,0,0,0
+by-election,0,0,0,0,1
+cabaret,0,1,0,0,0
+cabinet,0,0,0,0,1
+cac 40 index,1,0,0,0,0
+cache,0,0,0,1,0
+cadre,0,0,0,0,1
+cafe,0,1,0,0,0
+calculate,1,0,0,0,0
+camera,0,0,0,1,0
+campaign,0,0,0,0,1
+candidate,0,0,0,0,1
+canoe,0,0,1,0,0
+canoeing,0,1,1,0,0
+capital,1,0,0,0,0
+capital account,1,0,0,0,0
+capital gain,1,0,0,0,0
+capital ratios,1,0,0,0,0
+capitalism,0,0,0,0,1
+capitalist,1,0,0,0,0
+captain,0,0,1,0,0
+caption,0,1,0,0,0
+car racing,0,0,1,0,0
+cardio,0,0,1,0,0
+career,1,0,0,0,1
+cargo,1,0,0,0,0
+carnival,0,1,0,0,0
+carry trade,1,0,0,0,0
+cartoon,0,1,0,0,0
+cash,1,0,0,0,0
+cast,0,1,0,0,0
+catch,0,0,1,0,0
+catcher,0,0,1,0,0
+caucus,0,0,0,0,1
+cbi,1,0,0,0,0
+cbi industrial trends,1,0,0,0,0
+cdos,1,0,0,0,0
+ceilidh,0,1,0,0,0
+central bank,1,0,0,0,0
+ceremony,0,1,0,0,0
+chairman,1,0,0,0,0
+chairwoman,1,0,0,0,0
+challenger,0,0,0,0,1
+champion,0,0,1,0,0
+championship,0,0,1,0,0
+chapter 11 bankruptcy,1,0,0,0,0
+charade,0,1,0,0,0
+charge,1,0,0,0,0
+chartered institute of purchasing and supply,1,0,0,0,0
+chartists,1,0,0,0,0
+check,1,0,0,0,0
+checks and balances,0,0,0,0,1
+cheer on,0,0,1,0,0
+cheque,1,0,0,0,0
+chicanery,0,0,0,0,1
+chinese walls,1,0,0,0,0
+chip,0,0,0,1,0
+choreographer,0,1,0,0,0
+cinema,0,1,0,0,0
+circuit,0,0,0,1,0
+circus,0,1,0,0,0
+citizen,0,0,0,0,1
+civil rights,0,0,0,0,1
+civil war,0,0,0,0,1
+claim,0,0,0,0,1
+classical,0,1,0,0,0
+clause,1,0,0,0,0
+clean sheet,0,0,1,0,0
+cleats,0,0,1,0,0
+click through rate,0,1,0,1,0
+client,1,0,0,0,0
+cloud,0,0,0,1,0
+club,0,0,1,0,0
+club,0,0,1,0,0
+coach,0,0,1,0,0
+coalition,0,0,0,0,1
+cockfighting,0,1,0,0,0
+code,0,0,0,1,0
+coercion,0,0,0,0,1
+cold call,1,0,0,0,0
+collaboration,0,0,0,0,1
+collage,0,1,0,0,0
+collateral,1,0,0,0,0
+colonization,0,0,0,0,1
+comedy,0,1,0,0,0
+coming attraction,0,1,0,0,0
+command performance,0,1,0,0,0
+commerce,1,0,0,0,0
+commercial,1,0,0,0,0
+commercial paper,1,0,0,0,0
+commission,1,0,0,0,0
+commodity,1,0,0,0,0
+communism,0,0,0,0,1
+company,1,0,0,0,0
+compete,0,0,1,0,0
+competing,0,0,1,0,0
+competition,1,0,1,0,0
+competition commission,1,0,0,0,0
+competitor,0,0,1,0,0
+composer,0,1,0,0,0
+compromise,1,0,0,0,0
+computer,0,0,0,1,0
+computer buff,0,0,0,1,0
+computer hackers,0,0,0,1,0
+computer literate,0,0,0,1,0
+computer-literate,0,0,0,1,0
+computerize,0,0,0,1,0
+computing,0,0,0,1,0
+conceal,0,0,0,0,1
+concert,0,1,0,0,0
+confederation of british industry,1,0,0,0,0
+confidence,0,0,0,0,1
+congress,0,0,0,0,1
+conjuring,0,1,0,0,0
+connect,0,0,0,1,0
+connection,0,0,0,1,0
+conquer,0,0,1,0,0
+conservative,0,0,0,0,1
+constituency,0,0,0,0,1
+constituent,0,0,0,0,1
+constitution,0,0,0,0,1
+consumer,1,0,0,0,0
+consumer confidence,1,0,0,0,0
+consumer prices index,1,0,0,0,0
+consumerism,0,0,0,0,1
+contents insurance,1,0,0,0,0
+contest,0,0,1,0,0
+contract,1,0,0,0,0
+control,0,0,0,0,1
+control remotely,0,0,0,1,0
+convention,0,0,0,0,1
+cookies,0,0,0,1,0
+copyright,1,0,0,0,0
+corner,0,0,1,0,0
+corner office,1,0,0,0,0
+corporate,1,0,0,0,1
+corporate raiders,1,0,0,0,0
+corporation,1,0,0,0,1
+corrupt,0,0,0,0,1
+corruption,0,0,0,0,1
+cost,1,0,0,0,0
+cost-push inflation,1,0,0,0,0
+coterie,0,0,0,0,1
+cotillion,0,1,0,0,0
+cotillon,0,1,0,0,0
+counter,1,0,0,0,0
+coup dâ etat,0,0,0,0,1
+coupon,1,0,0,0,0
+course,0,0,1,0,0
+court,0,0,1,0,0
+covert,0,0,0,0,1
+cpbl,0,0,1,0,0
+cpi,1,0,0,0,0
+crash,0,0,0,1,0
+credit,1,0,0,0,0
+credit card,1,0,0,0,0
+credit crunch,1,0,0,0,0
+credit default swaps,1,0,0,0,0
+credit reference agency,1,0,0,0,0
+credited,1,0,0,0,0
+credits,0,1,0,0,0
+crew,0,0,1,0,0
+cricket,0,0,1,0,0
+crime,0,1,0,0,0
+croquet,0,0,1,0,0
+cross country,0,0,1,0,0
+cross-training,0,0,1,0,0
+crowd,0,0,1,0,0
+css,0,0,0,1,0
+css3,0,0,0,1,0
+ctr,0,1,0,1,0
+cubicle,1,0,0,0,0
+cue,0,0,1,0,0
+cup,0,0,1,0,0
+curling,0,0,1,0,0
+currency,1,0,0,0,0
+current account,1,0,0,0,0
+customer,1,0,0,0,0
+cutting-edge,0,0,0,1,0
+cyber,0,0,0,1,0
+cybercrime,0,0,0,1,0
+cybersecurity,0,0,0,1,0
+cycle,0,0,1,0,0
+cycling,0,0,1,0,0
+cyclist,0,0,1,0,0
+dance,0,1,0,0,0
+dancer,0,1,0,0,0
+dancers,0,1,0,0,0
+dart,0,0,1,0,0
+dartboard,0,0,1,0,0
+darts,0,0,1,0,0
+data analytics,0,0,0,1,0
+data mining,0,0,0,1,0
+database,1,0,0,1,0
+day trading,1,0,0,0,0
+dead cat bounce,1,0,0,0,0
+deadlifting,0,0,1,0,0
+deadline,1,0,0,0,0
+deal,1,0,0,0,0
+debacle,0,0,0,0,1
+debate,0,0,0,0,1
+debit,1,0,0,0,0
+debit card,1,0,0,0,0
+decathlon,0,0,1,0,0
+deception,0,0,0,0,1
+defamation,0,0,0,0,1
+defeat,0,0,1,0,0
+defend,0,0,1,0,0
+defense,0,0,1,0,0
+deficit,0,0,0,0,1
+deflation,1,0,0,0,0
+deflect,0,0,0,0,1
+delegate,0,0,0,0,1
+demagogue,0,0,0,0,1
+demand,1,0,0,0,0
+demand-pull inflation,1,0,0,0,0
+democracy,0,0,0,0,1
+democrat,0,0,0,0,1
+democratic party,0,0,0,0,1
+democratic socialism,0,0,0,0,1
+democrats,0,0,0,0,1
+demutualisation,1,0,0,0,0
+denigrate,0,0,0,0,1
+deny,0,0,0,0,1
+department,1,0,0,0,0
+deposit,1,0,0,0,0
+depression,1,0,0,0,1
+derivatives,1,0,0,0,0
+devastated,0,0,1,0,0
+develop,0,0,0,1,0
+developer,0,0,0,1,0
+development,0,0,0,1,0
+device,0,0,0,1,0
+devops,0,0,0,1,0
+diamond,0,0,1,0,0
+dictator,0,0,0,0,1
+dictatorship,0,0,0,0,1
+dig,0,0,1,0,0
+digital,0,0,0,1,0
+diminishing returns,1,0,0,0,0
+diplomacy,0,0,0,0,1
+director,1,1,0,0,0
+disco,0,1,0,0,0
+discount,1,0,0,0,0
+discount mortgage,1,0,0,0,0
+discourage real interaction,0,0,0,1,0
+discus,0,0,1,0,0
+disinformation,0,0,0,0,1
+dismiss,1,0,0,0,0
+dissolution,0,0,0,0,1
+distribution,1,0,0,0,0
+dive,0,0,1,0,0
+diver,0,0,1,0,0
+diversify,1,0,0,0,0
+dividend,1,0,0,0,0
+dividend yield,1,0,0,0,0
+diving,0,0,1,0,0
+dj,0,1,0,0,0
+dns,0,0,0,1,0
+docudrama,0,1,0,0,0
+documentary,0,1,0,0,0
+dodgeball,0,0,1,0,0
+domain name server,0,0,0,1,0
+domestic terrorist,0,0,0,0,1
+dominant,0,0,1,0,0
+doorman,0,1,0,0,0
+doubleheader,0,0,1,0,0
+dow jones industrial average,1,0,0,0,0
+down payment,1,0,0,0,0
+download,0,0,0,1,0
+downloading from the internet,0,0,0,1,0
+draconian,0,0,0,0,1
+drama,0,1,0,0,0
+draw,0,0,1,0,0
+drawing,0,1,0,0,0
+dress code,0,1,0,0,0
+dribble,0,0,1,0,0
+driverless vehicles,0,0,0,1,0
+drop shot,0,0,1,0,0
+drummer,0,1,0,0,0
+dugout,0,0,1,0,0
+duties,1,0,0,0,0
+duty,1,0,0,0,0
+e-book,0,0,0,1,0
+e-commerce,0,0,0,1,0
+earnings per share (eps),1,0,0,0,0
+ebit,1,0,0,0,0
+ebitda,1,0,0,0,0
+economic growth,1,0,0,0,0
+economical,1,0,0,0,0
+economics,1,0,0,0,0
+economies of scale,1,0,0,0,0
+economy of scale,1,0,0,0,0
+efficiency,1,0,0,0,0
+elasticity,1,0,0,0,0
+elect,0,0,0,0,1
+elect,0,0,0,0,1
+election,0,0,0,0,1
+election campaign,0,0,0,0,1
+electoral college,0,0,0,0,1
+electoral register,0,0,0,0,1
+electorate,0,0,0,0,1
+electronic,0,0,0,1,0
+electronic funds transfer,0,0,0,1,0
+embedding,0,0,0,1,0
+embezzlement,0,0,0,0,1
+emerging technology,0,0,0,1,0
+empire,0,0,0,0,1
+employ,1,0,0,0,0
+employee,1,0,0,0,0
+employer,1,0,0,0,0
+employment,1,0,0,0,0
+endorse,0,0,0,0,1
+endorsement,0,0,0,0,1
+endowment policy,1,0,0,0,0
+engagement,0,0,0,1,1
+engineer,0,0,0,1,0
+engineering,0,0,0,1,0
+enterprise value,1,0,0,0,0
+entrepreneur,1,0,0,0,0
+episode,0,1,0,0,0
+equal rights,0,0,0,0,1
+equalizer,0,0,1,0,0
+equestrian,0,0,1,0,0
+equipment,1,0,1,0,0
+equity,1,0,0,0,0
+equity derivatives,1,0,0,0,0
+escapology,0,1,0,0,0
+establishment,0,0,0,0,1
+estimate,1,0,0,0,0
+ethical investment,1,0,0,0,0
+event,0,0,1,0,0
+executive,1,0,0,0,0
+exercise,0,0,1,0,0
+exhibit,0,1,0,0,0
+exhibition,0,1,0,0,0
+exhibits,0,1,0,0,0
+expenses,1,0,0,0,0
+exploit,0,0,0,0,1
+export,1,0,0,0,0
+expose,0,0,0,0,1
+externalities,1,0,0,0,0
+extortion,0,0,0,0,1
+f1,0,0,1,0,0
+facility,1,0,0,0,0
+fact of life,0,0,0,1,0
+factory,1,0,0,0,0
+fair,0,1,0,0,0
+fairground,0,1,0,0,0
+fan,0,0,1,0,0
+far left,0,0,0,0,1
+far right,0,0,0,0,1
+farce,0,1,0,0,0
+fascism,0,0,0,0,1
+fashion show,0,1,0,0,0
+fax,1,0,0,0,0
+feast,0,1,0,0,0
+feature,0,1,0,0,0
+feature film,0,1,0,0,0
+federal,0,0,0,0,1
+federation,0,0,0,0,1
+feminism,0,0,0,0,1
+fencing,0,0,1,0,0
+festival,0,1,0,0,0
+fete,0,1,0,0,0
+feud,0,0,0,0,1
+fiasco,0,0,0,0,1
+field,0,0,1,0,0
+field hockey,0,0,1,0,0
+fielder,0,0,1,0,0
+fielding,0,0,1,0,0
+figure skating,0,0,1,0,0
+figures,1,0,0,0,0
+file,0,0,0,1,0
+film,0,1,0,0,0
+film noir,0,1,0,0,0
+final cut,0,1,0,0,0
+final score,0,0,1,0,0
+finance,1,0,0,0,0
+financial,1,0,0,0,0
+financial services authority,1,0,0,0,0
+financial year,1,0,0,0,0
+fire,1,0,0,0,0
+firewall,0,0,0,1,0
+firewalls,0,0,0,1,0
+fireworks,0,1,0,0,0
+firmware,0,0,0,1,0
+first past the post,0,0,0,0,1
+fiscal,0,0,0,0,1
+fiscal policy,1,0,0,0,0
+fiscal year,1,0,0,0,0
+fitness,0,0,1,0,0
+fixed costs,1,0,0,0,0
+fixed-rate mortgage,1,0,0,0,0
+flexible mortgage,1,0,0,0,0
+flick,0,1,0,0,0
+floor show,0,1,0,0,0
+football,0,0,1,0,0
+foreign aid,0,0,0,0,1
+foreign exchange (forex),1,0,0,0,0
+foreign policy,0,0,0,0,1
+foreign relations,0,0,0,0,1
+foreman,1,0,0,0,0
+formula 1,0,0,1,0,0
+forward,0,0,1,0,0
+foul,0,0,1,0,0
+framework,1,0,0,0,0
+frameworks,0,0,0,1,0
+fray,0,0,0,0,1
+free throw,0,0,1,0,0
+freehold,1,0,0,0,0
+freight,1,0,0,0,0
+frisbee,0,0,1,0,0
+front end,0,0,0,1,0
+ftse 100 index,1,0,0,0,0
+ftse 250,1,0,0,0,0
+ftse 350,1,0,0,0,0
+ftse all-share,1,0,0,0,0
+ftse smallcap,1,0,0,0,0
+ftse techmark,1,0,0,0,0
+ftse4good,1,0,0,0,0
+fun,0,0,1,0,0
+funambulism,0,1,0,0,0
+function,0,0,0,1,0
+fund,1,0,0,0,0
+fundraising,0,0,0,0,1
+furor,0,0,0,0,1
+futures,1,0,0,0,0
+g7,1,0,0,0,0
+g8,1,0,0,0,0
+gain,0,0,0,0,1
+gala,0,1,0,0,0
+galanty show,0,1,0,0,0
+gallery,0,1,0,0,0
+game,0,0,1,0,0
+games,0,0,1,0,0
+garden party,0,1,0,0,0
+gaudy,0,1,0,0,0
+gazumping,1,0,0,0,0
+gazundering,1,0,0,0,0
+gdp,1,0,0,0,0
+gear,0,0,1,0,0
+gearing,1,0,0,0,0
+geocaching,0,0,1,0,0
+geopolitics,0,0,0,0,1
+gig,0,1,0,0,0
+gilts,1,0,0,0,0
+glass-steagall act,1,0,0,0,0
+glued to the screen,0,0,0,1,0
+gnp,1,0,0,0,0
+go,0,0,1,0,0
+go viral,0,0,0,1,0
+goal,0,0,1,0,0
+goalie,0,0,1,0,0
+gold,1,0,0,0,0
+gold medal,0,0,1,0,0
+golden goal,0,0,1,0,0
+golden handcuffs,1,0,0,0,0
+golden handshake,1,0,0,0,0
+golden hello,1,0,0,0,0
+golden parachute,1,0,0,0,0
+golden rule,1,0,0,0,0
+golden share,1,0,0,0,0
+golf,0,0,1,0,0
+golfer,0,0,1,0,0
+golfing,0,0,1,0,0
+goods,1,0,0,0,0
+government,0,0,0,0,1
+gpu,0,0,0,1,0
+grandstand,0,0,1,0,0
+graph,1,0,0,0,0
+greedy,0,0,0,0,1
+greenback,1,0,0,0,0
+grey knight,1,0,0,0,0
+gross,1,0,0,0,0
+gross domestic product,1,0,0,0,0
+gross national product,1,0,0,0,0
+ground,0,0,1,0,0
+ground rent,1,0,0,0,0
+growth,1,0,0,0,0
+guaranteed annuity rate,1,0,0,0,0
+guarantor,1,0,0,0,0
+guard,1,0,1,0,0
+guidebook,1,0,0,0,0
+guitarist,0,1,0,0,0
+gym,0,0,1,0,0
+gym,0,0,1,0,0
+gymnasium,0,0,1,0,0
+gymnast,0,0,1,0,0
+gymnastics,0,0,1,0,0
+hacker,0,0,0,1,0
+hacking into the network,0,0,0,1,0
+half year,1,0,0,0,0
+half-time,0,0,1,0,0
+halftime,0,0,1,0,0
+hammer throw,0,0,1,0,0
+handball,0,0,1,0,0
+hang gliding,0,0,1,0,0
+hang seng,1,0,0,0,0
+hard copy,0,0,0,1,0
+hardball,0,0,1,0,0
+hardware,0,0,0,1,0
+head coach,0,0,1,0,0
+head of state,0,0,0,0,1
+head office,1,0,0,0,0
+headhunter,1,0,0,0,0
+headquarters,1,0,0,0,0
+hedge funds,1,0,0,0,0
+helmet,0,0,1,0,0
+heptathlon,0,0,1,0,0
+high jump,0,0,1,0,0
+hire,1,0,0,0,0
+hitter,0,0,1,0,0
+hockey,0,0,1,0,0
+hole-in-one,0,0,1,0,0
+home,0,0,1,0,0
+home movie,0,1,0,0,0
+home plate,0,0,1,0,0
+home reversion plan,1,0,0,0,0
+home run,0,0,1,0,0
+home team,0,0,1,0,0
+homerun,0,0,1,0,0
+hook,0,0,1,0,0
+hoop,0,0,1,0,0
+horizontal merger,1,0,0,0,0
+horror,0,1,0,0,0
+horse racing,0,0,1,0,0
+horseracing,0,0,1,0,0
+horseshoes,0,0,1,0,0
+hostile takeover,1,0,0,0,0
+hotspot,0,0,0,1,0
+house of commons,0,0,0,0,1
+house of lords,0,0,0,0,1
+house of representatives,0,0,0,0,1
+house price surveys,1,0,0,0,0
+html,0,0,0,1,0
+html5,0,0,0,1,0
+huddle,0,0,1,0,0
+human rights,0,0,0,0,1
+hurdle,0,0,1,0,0
+hyperinflation,1,0,0,0,0
+hypocrisy,0,0,0,0,1
+ic,0,0,0,1,0
+ice hockey,0,0,1,0,0
+ice rink,0,0,1,0,0
+ice show,0,1,0,0,0
+ice skates,0,0,1,0,0
+ice skating,0,0,1,0,0
+ice-hockey,0,0,1,0,0
+ide,0,0,0,1,0
+ideology,0,0,0,0,1
+ignorant,0,0,0,0,1
+illegal,0,0,0,0,1
+illicit,0,0,0,0,1
+impact,0,0,0,1,0
+import,1,0,0,0,0
+impressionist,0,1,0,0,0
+impressions,0,1,0,1,0
+impunity,0,0,0,0,1
+in its infancy,0,0,0,1,0
+incentive,1,0,0,0,0
+incident,0,0,0,0,1
+inclusive,0,0,0,0,1
+income,1,0,0,0,0
+income protection insurance,1,0,0,0,0
+income statement,1,0,0,0,0
+incumbent,0,0,0,0,1
+independent,0,0,0,0,1
+independent financial adviser (ifa),1,0,0,0,0
+indigenous governance,0,0,0,0,1
+individual savings account (isa),1,0,0,0,0
+industrial output,1,0,0,0,0
+infield,0,0,1,0,0
+infielder,0,0,1,0,0
+inflation,1,0,0,0,1
+inflation measures,1,0,0,0,0
+influence,0,0,0,0,1
+influencer,0,0,0,1,0
+infotainment,0,1,0,0,0
+infringement,0,0,0,0,1
+inline skates,0,0,1,0,0
+inning,0,0,1,0,0
+innovation,0,0,0,1,0
+innovative,0,0,0,1,0
+insider trading,1,0,0,0,0
+install,0,0,0,1,0
+institutional investor,1,0,0,0,0
+insurance,1,0,0,0,0
+insurrection,0,0,0,0,1
+integrated circuit,0,0,0,1,0
+integrated development environment,0,0,0,1,0
+integrity,0,0,0,0,1
+interest,1,0,0,0,0
+interest rate,1,0,0,0,0
+interest-only mortgage,1,0,0,0,0
+interface,0,0,0,1,0
+interim,1,0,0,0,0
+intern,1,0,0,0,0
+internet,0,0,0,1,0
+internet access,0,0,0,1,0
+internet of things,0,0,0,1,0
+internet-enabled,0,0,0,1,0
+interval training,0,0,1,0,0
+interview,1,0,0,0,0
+intimidation,0,0,0,0,1
+inventory,1,0,0,0,0
+invest,1,0,0,0,0
+investment,1,0,0,0,0
+investment trust,1,0,0,0,0
+invisible hand,1,0,0,0,0
+invoice,1,0,0,0,0
+iot,0,0,0,1,0
+irrational exuberance,1,0,0,0,0
+irresponsible,0,0,0,0,1
+issue,0,0,0,0,1
+jab,0,0,1,0,0
+jai-alai,0,0,1,0,0
+javelin,0,0,1,0,0
+job,1,0,0,0,0
+jockey,0,0,1,0,0
+jog,0,0,1,0,0
+jogger,0,0,1,0,0
+joint account,1,0,0,0,0
+judge,0,0,1,0,0
+judiciary,0,0,0,0,1
+judo,0,0,1,0,0
+juggling,0,1,0,0,0
+jump,0,0,1,0,0
+jump rope,0,0,1,0,0
+jumper,0,0,1,0,0
+jumping,0,0,1,0,0
+junta,0,0,0,0,1
+justice,0,0,0,0,1
+karaoke,0,1,0,0,0
+karate,0,0,1,0,0
+kayak,0,0,1,0,0
+kayaker,0,0,1,0,0
+kayaking,0,0,1,0,0
+kermis,0,1,0,0,0
+keyboard,0,0,0,1,0
+keynesian economics,1,0,0,0,0
+kickball,0,0,1,0,0
+king,0,0,0,0,1
+kirmess,0,1,0,0,0
+kite,0,0,1,0,0
+kneepads,0,0,1,0,0
+knockout,0,0,1,0,0
+kung fu,0,0,1,0,0
+labor,1,0,0,0,0
+laborer,1,0,0,0,0
+labour,0,0,0,0,1
+labour party,0,0,0,0,1
+labour-saving,0,0,0,1,0
+laconic,0,0,0,0,1
+lacrosse,0,0,1,0,0
+laissez-faire,1,0,0,0,0
+landline,0,0,0,1,0
+landscape,0,1,0,0,0
+landslide,0,0,0,0,1
+laptop,1,0,0,1,0
+law,0,0,0,0,1
+law and order,0,0,0,0,1
+lawn bowling,0,0,1,0,0
+lead,1,0,0,0,0
+leader,0,0,0,0,1
+leading-edge technology,0,0,0,1,0
+leaflet,0,0,0,0,1
+league,0,0,1,0,0
+lease,1,0,0,0,0
+leasehold,1,0,0,0,0
+leave,1,0,0,0,0
+left-wing,0,0,0,0,1
+legislation,0,0,0,0,1
+legislative agenda,0,0,0,0,1
+leisure,0,0,1,0,0
+letterhead,1,0,0,0,0
+levee,0,1,0,0,0
+leveraged buyout,1,0,0,0,0
+liability,1,0,0,0,0
+liberal,0,0,0,0,1
+liberal democracy,0,0,0,0,1
+libertarian,0,0,0,0,1
+libor rate,1,0,0,0,0
+light show,0,1,0,0,0
+liquid asset,1,0,0,0,0
+loan,1,0,0,0,0
+loan-to-value,1,0,0,0,0
+lob,0,0,1,0,0
+lobby,0,0,0,0,1
+log in,0,0,0,1,0
+log-in,1,0,0,0,0
+long jump,0,0,1,0,0
+long-jump,0,0,1,0,0
+lose,0,0,1,0,0
+loser,0,0,1,0,0
+loss,1,0,1,0,0
+low,1,0,0,0,0
+lower class,0,0,0,0,1
+lower house,0,0,0,0,1
+lucrative,1,0,0,0,0
+luge,0,0,1,0,0
+lutz,0,0,1,0,0
+machine,0,0,0,1,0
+macroeconomics,1,0,0,0,0
+magic,0,1,0,0,0
+magician,0,1,0,0,0
+mailbox,1,0,0,0,0
+main branch,1,0,0,0,0
+mainframe,1,0,0,0,0
+mainstream,0,0,0,0,1
+major league,0,0,1,0,0
+majority,0,0,0,0,1
+malfeasance,0,0,0,0,1
+mallet,0,0,1,0,0
+manage,1,0,0,0,0
+managed fund,1,0,0,0,0
+management,1,0,0,0,0
+manager,1,0,1,0,0
+manifesto,0,0,0,0,1
+manipulate,0,0,0,0,1
+manufacturing output,1,0,0,0,0
+marathon,0,0,1,0,0
+margin,1,0,0,0,0
+market,1,0,0,0,0
+market economy,0,0,0,0,1
+marketing,1,0,0,0,0
+martial arts,0,0,1,0,0
+marxism,0,0,0,0,1
+masked ball,0,1,0,0,0
+masque,0,1,0,0,0
+massive,0,0,0,0,1
+mat,0,0,1,0,0
+match,0,0,1,0,0
+medal,0,0,1,0,0
+media,0,0,0,1,0
+median,1,0,0,0,0
+medieval,0,1,0,0,0
+meeting,1,0,0,0,0
+melodrama,0,1,0,0,0
+mendacity,0,0,0,0,1
+merchandise,1,0,0,0,0
+merchant,1,0,0,0,0
+mercurial,0,0,0,0,1
+merger,1,0,0,0,0
+meritocracy,0,0,0,0,1
+microblogging,0,0,0,1,0
+microchip,0,0,0,1,0
+microeconomics,1,0,0,0,0
+microwave,0,0,0,1,0
+middle class,0,0,0,0,1
+military dictatorship,0,0,0,0,1
+minimum wage,1,0,0,0,0
+minister,0,0,0,0,1
+minor league,0,0,1,0,0
+minstrel show,0,1,0,0,0
+mitt,0,0,1,0,0
+mlb,0,0,1,0,0
+mma,0,0,1,0,0
+mobile,0,0,0,1,0
+moderate,0,0,0,0,1
+modern,0,0,0,1,0
+modernist,0,1,0,0,0
+modify,0,0,0,1,0
+monarchy,0,0,0,0,1
+monetarism,1,0,0,0,0
+monetary,1,0,0,0,0
+monetary policy committee,1,0,0,0,0
+money,1,0,0,0,0
+monitor,0,0,0,1,0
+monopoly,1,0,0,0,0
+mortgage,1,0,0,0,0
+motherboard,1,0,0,0,0
+motion picture,0,1,0,0,0
+motorsport,0,0,1,0,0
+mouthguard,0,0,1,0,0
+move,0,0,1,0,0
+movement,0,0,1,0,0
+movie,0,1,0,0,0
+mp,0,0,0,0,1
+murder,0,1,0,0,0
+museum,0,1,0,0,0
+music,0,1,0,0,0
+music hall,0,1,0,0,0
+musical,0,1,0,0,0
+musical theater,0,1,0,0,0
+musician,0,1,0,0,0
+mutual,1,0,0,0,0
+mutual fund,1,0,0,0,0
+mvp,0,0,1,0,0
+mystery,0,1,0,0,0
+naked short-selling,1,0,0,0,0
+nasdaq,1,0,0,0,0
+nation,0,0,0,0,1
+national debt,1,0,0,0,0
+national economic council,1,0,0,0,0
+national insurance,1,0,0,0,0
+national people's congress,0,0,0,0,1
+national security,0,0,0,0,1
+nationalize,0,0,0,0,1
+natural language processing,0,0,0,1,0
+nba,0,0,1,0,0
+negative equity,1,0,0,0,0
+negotiate,1,0,0,0,0
+negotiation,1,0,0,0,0
+neo-nazi,0,0,0,0,1
+neoconservative,0,0,0,0,1
+net,1,0,1,0,0
+net asset value,1,0,0,0,0
+net worth,1,0,0,0,0
+network,1,0,0,1,0
+networks,0,0,0,1,0
+new york stock exchange,1,0,0,0,0
+nhl,0,0,1,0,0
+niesr,1,0,0,0,0
+nightclub,0,1,0,0,0
+nikkei,1,0,0,0,0
+nlp,0,0,0,1,0
+no-hitter,0,0,1,0,0
+no-win,1,0,0,0,0
+nominal interest rate,1,0,0,0,0
+nominal values,1,0,0,0,0
+nominee,0,0,0,0,1
+non-elected,0,0,0,0,1
+nordic skiing,0,0,1,0,0
+not rocket science,0,0,0,1,0
+nrl,0,0,1,0,0
+object,0,0,1,0,0
+obscure,0,0,0,0,1
+obsolete,0,0,0,1,0
+occupation,1,0,0,0,0
+offense,0,0,1,0,0
+offer,1,0,0,0,0
+office,1,0,0,0,0
+office for national statistics (ons),1,0,0,0,0
+office of fair trading (oft),1,0,0,0,0
+offline,1,0,0,0,0
+offshore account,1,0,0,0,0
+offside,0,0,1,0,0
+oil painting,0,1,0,0,0
+old lady of threadneedle street,1,0,0,0,0
+oligarchy,0,0,0,0,1
+oligopoly,1,0,0,0,0
+ollie,0,0,1,0,0
+olympics,0,0,1,0,0
+onerous,0,0,0,0,1
+online,1,0,0,1,0
+online piracy,0,0,0,1,0
+online scams,0,0,0,1,0
+online shopping,0,0,0,1,0
+open,1,0,0,0,0
+open an account,1,0,0,0,0
+open-market operations,1,0,0,0,0
+opera,0,1,0,0,0
+operating profit/loss,1,0,0,0,0
+operetta,0,1,0,0,0
+opinion poll,0,0,0,0,1
+opponent,0,0,1,0,0
+opportunist,0,0,0,0,1
+opportunity,1,0,0,0,0
+opposition,0,0,0,0,1
+oppression,0,0,0,0,1
+optimization,0,0,0,1,0
+option,1,0,0,0,0
+orchestra,0,1,0,0,0
+order,1,0,0,0,0
+ordinary residence,1,0,0,0,0
+ordinary share,1,0,0,0,0
+organisation for economic cooperation and development,1,0,0,0,0
+organisation of petroleum exporting countries (opec),1,0,0,0,0
+organization,1,0,0,0,0
+orienteering,0,0,1,0,0
+out,0,0,1,0,0
+out of this world,0,0,0,1,0
+outdated,0,0,0,1,0
+outfield,0,0,1,0,0
+outfielder,0,0,1,0,0
+outgoing,1,0,0,0,0
+over-reliant,0,0,0,1,0
+overdraft,1,0,0,0,0
+overdrawn,1,0,0,0,0
+overhead,1,0,0,0,0
+overthrow,0,0,0,0,1
+overwhelmed,0,0,1,0,0
+owner,1,0,0,0,0
+packing list,1,0,0,0,0
+paddle,0,0,1,0,0
+paddleball,0,0,1,0,0
+paddling,0,0,1,0,0
+paintball,0,0,1,0,0
+painter,0,1,0,0,0
+painting,0,1,0,0,0
+panto,0,1,0,0,0
+pantomime,0,1,0,0,0
+paperweight,1,0,0,0,0
+para-olympics,0,0,1,0,0
+parasailing,0,0,1,0,0
+park,0,1,0,0,0
+parkour,0,0,1,0,0
+parliament,0,0,0,0,1
+parry,0,0,0,0,1
+partial,0,0,0,0,1
+participants,0,0,1,0,0
+partner,1,0,0,0,0
+party,0,1,0,0,1
+pass,0,0,1,0,0
+passbook,1,0,0,0,0
+password,1,0,0,0,0
+patriarchy,0,0,0,0,1
+patriot,0,0,0,0,1
+patriotism,0,0,0,0,1
+patronage,0,0,0,0,1
+pay,1,0,0,0,0
+pay as you earn (paye),1,0,0,0,0
+payee,1,0,0,0,0
+paying-in slip,1,0,0,0,0
+payment,1,0,0,0,0
+pc,0,0,0,1,0
+penalty,0,0,1,0,0
+pension,1,0,0,0,0
+pentathlon,0,0,1,0,0
+percentage change,1,0,0,0,0
+perform,0,1,1,0,0
+performance,0,0,1,0,0
+perk,1,0,0,0,0
+permanent interest-bearing shares (pibs),1,0,0,0,0
+persecution,0,0,0,0,1
+personal loan,1,0,0,0,0
+personnel,1,0,0,0,0
+photographs,0,1,0,0,0
+physique,0,0,1,0,0
+pianist,0,1,0,0,0
+pic,0,1,0,0,0
+pickleball,0,0,1,0,0
+picture,0,1,0,0,0
+pin number,1,0,0,0,0
+ping pong,0,0,1,0,0
+pitch,0,0,1,0,0
+pitch (1),0,0,1,0,0
+pitch (2),0,0,1,0,0
+pitcher,0,0,1,0,0
+pixel,0,0,0,1,0
+pixels per inch,0,0,0,1,0
+plagiarism,0,0,0,0,1
+plan,1,0,0,0,0
+platform,0,0,0,0,1
+play,0,1,1,0,0
+player,0,0,1,0,0
+playhouse,0,1,0,0,0
+playing,0,1,1,0,0
+playing field,0,0,1,0,0
+playoffs,0,0,1,0,0
+playwright,0,1,0,0,0
+plug-in,0,0,0,1,0
+plugin,0,0,0,1,0
+plutocracy,0,0,0,0,1
+pm,0,0,0,0,1
+podium,0,1,0,0,0
+pogo stick,0,0,1,0,0
+poison pill,1,0,0,0,0
+pole,0,0,1,0,0
+pole vault,0,0,1,0,0
+pole-vault,0,0,1,0,0
+policy,1,0,0,0,1
+poling station,0,0,0,0,1
+political,0,0,0,0,1
+political correctness,0,0,0,0,1
+political party,0,0,0,0,1
+political science,0,0,0,0,1
+politician,0,0,0,0,1
+politicize,0,0,0,0,1
+politics,0,0,0,0,1
+poll,0,0,0,0,1
+polling booth,0,0,0,0,1
+polo,0,0,1,0,0
+ponzi scheme,1,0,0,0,0
+pool,0,0,1,0,0
+pop,0,1,0,0,0
+populism,0,0,0,0,1
+populist,0,0,0,0,1
+portfolio,1,0,0,0,0
+portrait,0,1,0,0,0
+position,1,0,0,0,0
+postal vote,0,0,0,0,1
+postmodernist,0,1,0,0,0
+pound,1,0,0,0,0
+poverty trap,1,0,0,0,0
+ppi,0,0,0,1,0
+pre-raphaelite,0,1,0,0,0
+precipice bonds,1,0,0,0,0
+preference shares,1,0,0,0,0
+prejudice,0,0,0,0,1
+preliminary announcement (prelim),1,0,0,0,0
+premium bonds,1,0,0,0,0
+presentation,1,0,0,0,0
+president,1,0,0,0,1
+prestidigitation,0,0,0,0,1
+price,1,0,0,0,0
+price to earnings ratio (pe ratio),1,0,0,0,0
+primary,0,0,0,0,1
+primary discount rate,1,0,0,0,0
+prime minister,0,0,0,0,1
+prime rate,1,0,0,0,0
+principal,1,0,0,0,0
+private enterprise,0,0,0,0,1
+privatisation,1,0,0,0,0
+privatize,0,0,0,0,1
+privilege,0,0,0,0,1
+producer price index,1,0,0,0,0
+product,1,0,0,0,0
+production,1,0,0,0,0
+professional,0,0,1,0,0
+profit,1,0,0,0,0
+profit and loss account,1,0,0,0,0
+profit participating deferred shares,1,0,0,0,0
+profitable,1,0,0,0,0
+profits,1,0,0,0,0
+program,0,0,0,1,0
+programmer,0,0,0,1,0
+progress,0,0,0,1,0
+progressive,0,0,0,0,1
+project,0,0,0,1,0
+promotion,1,0,0,0,0
+propaganda,0,0,0,0,1
+proportional representation,0,0,0,0,1
+proposal,1,0,0,0,0
+prospects,1,0,0,0,0
+proxy,1,0,0,0,1
+pub,0,1,0,0,0
+public company,1,0,0,0,0
+public opinion,0,0,0,0,1
+puck,0,0,1,0,0
+pundit,0,0,0,0,1
+puppet show,0,1,0,0,0
+purchase order,1,0,0,0,0
+purchasing,1,0,0,0,0
+purchasing managers' index (pmi),1,0,0,0,0
+purchasing power parity,1,0,0,0,0
+pyrotechnics,0,1,0,0,0
+quantitative easing,1,0,0,0,0
+quantity theory of money,1,0,0,0,0
+quarter,1,0,1,0,0
+quarterback,0,0,1,0,0
+quarterly report,1,0,0,0,0
+queen,0,0,0,0,1
+quit,1,0,0,0,0
+quiver,0,0,1,0,0
+quota,1,0,0,0,0
+race,0,0,1,0,0
+racer,0,0,1,0,0
+racewalking,0,0,1,0,0
+racing,0,0,1,0,0
+racism,0,0,0,0,1
+racket,0,0,1,0,0
+racquetball,0,0,1,0,0
+radical,0,0,0,0,1
+rafting,0,0,1,0,0
+rally,1,0,0,0,0
+random walk theory,1,0,0,0,0
+rank,1,0,0,0,0
+raree show,0,1,0,0,0
+raster,0,0,0,1,0
+rate of return,1,0,0,0,0
+ratify,0,0,0,0,1
+ratings agencies,1,0,0,0,0
+rave,0,1,0,0,0
+re-install the programs,0,0,0,1,0
+reactionary,0,0,0,0,1
+reading,0,1,0,0,0
+real estate investment trusts,1,0,0,0,0
+real interest rate,1,0,0,0,0
+real values,1,0,0,0,0
+real wages,0,0,0,0,1
+realist,0,1,0,0,0
+rebel,0,0,0,0,1
+rebound,0,0,1,0,0
+rebut,0,0,0,0,1
+receipt,1,0,0,0,0
+reception,0,1,0,0,0
+recession,1,0,0,0,1
+recital,0,1,0,0,0
+recitation,0,1,0,0,0
+reckless,0,0,0,0,1
+record,0,1,1,0,0
+recrimination,0,0,0,0,1
+recruit,1,0,0,0,0
+recruiter,1,0,0,0,0
+red card,0,0,1,0,0
+referee,0,0,1,0,0
+referendum,0,0,0,0,1
+reform,0,0,0,0,1
+refund,1,0,0,0,0
+refute,0,0,0,0,1
+regime,0,0,0,0,1
+regressive tax,1,0,0,0,0
+regulatory news service (rns),1,0,0,0,0
+relay,0,0,1,0,0
+renaissance,0,1,0,0,0
+repayment mortgage,1,0,0,0,0
+representative,0,0,0,0,1
+reps,0,0,1,0,0
+republic,0,0,0,0,1
+republican,0,0,0,0,1
+republican party,0,0,0,0,1
+reputation,0,0,0,0,1
+resign,1,0,0,0,0
+resignation,0,0,0,0,1
+resistance training,0,0,1,0,0
+resolution,0,0,0,1,0
+retail,1,0,0,0,0
+retail prices index (rpi),1,0,0,0,0
+retailer,1,0,0,0,0
+retaliation,0,0,0,0,1
+retire,1,0,0,0,0
+retirement age,1,0,0,0,0
+revelation,0,0,0,0,1
+reverse takeover,1,0,0,0,0
+review,0,1,0,0,0
+revolution,0,0,0,0,1
+revolutionary,0,0,0,1,0
+revolutionise,0,0,0,1,0
+revue,0,1,0,0,0
+ride,0,1,1,0,0
+riding,0,0,1,0,0
+ridotto,0,1,0,0,0
+rig,0,0,0,0,1
+right-wing,0,0,0,0,1
+rights,0,0,0,0,1
+rights issue,1,0,0,0,0
+rink,0,0,1,0,0
+risk,1,0,0,0,0
+road show,0,1,0,0,0
+robotics technology,0,0,0,1,0
+rock,0,1,0,0,0
+rock climbing,0,0,1,0,0
+rococo,0,1,0,0,0
+rodeo,0,1,0,0,0
+roller skates,0,0,1,0,0
+roller skating,0,0,1,0,0
+romantic,0,1,0,0,0
+rookie,0,0,1,0,0
+round,0,0,1,0,0
+router,0,0,0,1,0
+routers,0,0,0,1,0
+row,0,0,1,0,0
+rower,0,0,1,0,0
+rowing,0,0,1,0,0
+royal mint,1,0,0,0,0
+ruck,0,0,1,0,0
+rugby,0,0,1,0,0
+rules,0,0,1,0,0
+run,0,0,0,0,1
+run,0,0,1,0,1
+run for office,0,0,0,0,1
+runner,0,0,1,0,0
+running,0,0,1,0,0
+rã©sumã©,1,0,0,0,0
+safety net,0,0,0,0,1
+saga,0,0,0,0,1
+sailing,0,0,1,0,0
+salary,1,0,0,0,0
+sale,1,0,0,0,0
+salesman,1,0,0,0,0
+saleswoman,1,0,0,0,0
+savings account,1,0,0,0,0
+saxophonist,0,1,0,0,0
+scandal,0,0,0,0,1
+scandalous,0,0,0,0,1
+scapegoat,0,0,0,0,1
+scene,0,1,0,0,0
+score,0,0,1,0,0
+scoreboard,0,0,1,0,0
+screen,0,1,0,1,0
+script,0,1,0,0,0
+scrum,0,0,1,0,0
+scuba,0,0,1,0,0
+scull,0,0,1,0,0
+sculling,0,0,1,0,0
+sculptor,0,1,0,0,0
+sculpture,0,1,0,0,0
+sdk,0,0,0,1,0
+search engine,0,0,0,1,0
+search engine marketing,1,0,0,1,0
+season ticket,0,0,1,0,0
+seat,0,0,0,0,1
+second-lien loan,1,0,0,0,0
+secretary,1,0,0,0,0
+securities and exchange commission,1,0,0,0,0
+security,1,0,0,1,0
+self-certification mortgage,1,0,0,0,0
+self-invested personal pensions,1,0,0,0,0
+self-select isa,1,0,0,0,0
+sell,1,0,0,0,0
+seller,1,0,0,0,0
+sem,1,0,0,0,0
+senate,0,0,0,0,1
+senator,0,0,0,0,1
+sequence,0,1,0,0,0
+series,0,0,1,0,0
+serious fraud office (sfo),1,0,0,0,0
+serve,0,0,1,0,0
+server,0,0,0,1,0
+servers,0,0,0,1,0
+service,1,0,0,0,0
+shadow play,0,1,0,0,0
+share index,1,0,0,0,0
+share options,1,0,0,0,0
+shareholder,1,0,0,0,0
+ship,1,0,0,0,0
+shipment,1,0,0,0,0
+shipping,1,0,0,0,0
+shoot,0,0,1,0,0
+shooting,0,1,0,0,0
+shop,1,0,0,0,0
+shop online,0,0,0,1,0
+shortstop,0,0,1,0,0
+shot,0,1,0,0,0
+shot put,0,0,1,0,0
+show,0,1,0,0,0
+shut down,0,0,0,1,0
+shuttlecock,0,0,1,0,0
+sick leave,1,0,0,0,0
+sideshow,0,1,0,0,0
+sign,1,0,0,0,0
+signature,1,0,0,0,0
+silent movie,0,1,0,0,0
+silver medal,0,0,1,0,0
+silver surfer,0,0,0,1,0
+sing,0,1,0,0,0
+singer,0,1,0,0,0
+singsong,0,1,0,0,0
+sipps,1,0,0,0,0
+site,0,0,0,1,0
+sivs,1,0,0,0,0
+skate,0,0,1,0,0
+skating rink,0,0,1,0,0
+skeleton,0,0,1,0,0
+sketch,0,1,0,0,0
+ski,0,0,1,0,0
+skier,0,0,1,0,0
+skiing,0,0,1,0,0
+skill,0,0,1,0,0
+skin flick,0,1,0,0,0
+skis,0,0,1,0,0
+slalom,0,0,1,0,0
+slapshot,0,0,1,0,0
+sled,0,0,1,0,0
+sledder,0,0,1,0,0
+sledding,0,0,1,0,0
+slide show,0,1,0,0,0
+slot machine,0,1,0,0,0
+sloth,0,0,0,0,1
+slow motion,0,1,0,0,0
+smart card,0,0,0,1,0
+smartphone,0,0,0,1,0
+smash,0,0,1,0,0
+snooker,0,0,1,0,0
+snooker hall,0,1,0,0,0
+snorkeling,0,0,1,0,0
+snowboard,0,0,1,0,0
+snowboarder,0,0,1,0,0
+snowboarding,0,0,1,0,0
+snowshoeing,0,0,1,0,0
+soccer,0,0,1,0,0
+social justice,0,0,0,0,1
+social media networks,0,0,0,1,0
+social welfare,0,0,0,0,1
+socialism,0,0,0,0,1
+socialist,0,0,0,0,1
+soft commodities,1,0,0,0,0
+soft copy,0,0,0,1,0
+softball,0,0,1,0,0
+software,0,0,0,1,0
+software development kit,0,0,0,1,0
+soiree,0,1,0,0,0
+solicit,0,0,0,0,1
+somersault,0,0,1,0,0
+sonia,1,0,0,0,0
+speaker,0,0,0,0,1
+special liquidity scheme,1,0,0,0,0
+spectator,0,0,1,0,0
+speed skating,0,0,1,0,0
+spike,0,0,1,0,0
+spin,0,0,0,0,1
+spin doctor,0,0,0,0,1
+split capital investment trusts,1,0,0,0,0
+sport,0,0,1,0,0
+sport centre,0,0,1,0,0
+sports,0,0,1,0,0
+sports stadium,0,1,0,0,0
+sportsmanship,0,0,1,0,0
+spot market/spot price,1,0,0,0,0
+spreadsheet,1,0,0,0,0
+sprint,0,0,1,0,0
+square mile,1,0,0,0,0
+squash,0,0,1,0,0
+stadium,0,1,1,0,0
+staff,1,0,0,0,0
+stagflation,1,0,0,0,0
+stakeholder pensions,1,0,0,0,0
+stalls,0,1,0,0,0
+stamp duty,1,0,0,0,0
+standing order,1,0,0,0,0
+standings,0,0,1,0,0
+star,0,1,0,0,0
+state,0,0,0,0,1
+state duma,0,0,0,0,1
+state-of-the-art,0,0,0,1,0
+statement,1,0,0,0,0
+statesman,0,0,0,0,1
+stick,0,0,1,0,0
+stock,1,0,0,0,0
+stock exchange,1,0,0,0,0
+stockholder,1,0,0,0,0
+strategy,0,0,1,0,0
+street theatre,0,1,0,0,0
+strike,1,0,1,0,1
+strikeout,0,0,1,0,0
+striptease,0,1,0,0,0
+stroke,0,0,1,0,0
+stroll,0,1,0,0,0
+sub-prime loans,1,0,0,0,0
+subterfuge,0,0,0,0,1
+success,1,0,0,0,0
+sumo wrestling,0,0,1,0,0
+super bowl,0,0,1,0,0
+superintendent,1,0,0,0,0
+supermarket checkouts,0,0,0,1,0
+supervisor,1,0,0,0,0
+supply,1,0,0,0,0
+supporter,0,0,1,0,0
+surfer,0,0,1,0,0
+surfing,0,0,1,0,0
+surfing the web,0,0,0,1,0
+surplus,0,0,0,0,1
+surrealist,0,1,0,0,0
+swaps,1,0,0,0,0
+swim,0,0,1,0,0
+swimmer,0,0,1,0,0
+swimming,0,0,1,0,0
+synchronized swimming,0,0,1,0,0
+system,0,0,0,1,0
+systems,0,0,0,1,0
+table tennis,0,0,1,0,0
+tackle,0,0,1,0,0
+tactics,0,0,1,0,0
+taekwondo,0,0,1,0,0
+tag,0,0,1,0,0
+tainted,0,0,0,0,1
+takeover,1,0,0,0,0
+takeover bid,1,0,0,0,0
+takeover panel,1,0,0,0,0
+talent,0,0,1,0,0
+tangible common equity ratio,1,0,0,0,0
+target,1,0,1,0,0
+tariff,1,0,0,0,0
+tarnish,0,0,0,0,1
+tax,1,0,0,0,0
+tax haven,1,0,0,0,0
+team,0,0,1,0,0
+teammate,0,0,1,0,0
+teamwork,0,0,1,0,0
+teaser rate,1,0,0,0,0
+tech,0,0,0,1,0
+tech-savvy,0,0,0,1,0
+techie,0,0,0,1,0
+technological,0,0,0,1,0
+technological breakthrough,0,0,0,1,0
+technology,0,0,0,1,0
+technophile,0,0,0,1,0
+technophobe,0,0,0,1,0
+tee,0,0,1,0,0
+telefilm,0,1,0,0,0
+telemark skiing,0,0,1,0,0
+teller,1,0,0,0,0
+temp,1,0,0,0,0
+temptation,0,0,0,0,1
+tennis,0,0,1,0,0
+term assurance,1,0,0,0,0
+terminal bonus,1,0,0,0,0
+terms,1,0,0,0,0
+terrorism,0,0,0,0,1
+tetherball,0,0,1,0,0
+text-messaging,0,0,0,1,0
+the college intranet,0,0,0,1,0
+the digital revolution,0,0,0,1,0
+theatre,0,1,0,0,0
+theme park,0,1,0,0,0
+thriller,0,1,0,0,0
+throw,0,0,1,0,0
+throwing,0,0,1,0,0
+ticket,0,1,0,0,0
+tickets,0,1,0,0,0
+tie,0,0,1,0,0
+tightrope-walking,0,1,0,0,0
+toboggan,0,0,1,0,0
+tournament,0,0,1,0,0
+tpu,0,0,0,1,0
+track,0,0,1,0,0
+track and field,0,0,1,0,0
+tracker funds,1,0,0,0,0
+trade,1,0,0,0,0
+trade balance,1,0,0,0,0
+trade union,0,0,0,0,1
+trade-off,1,0,0,0,0
+tragedy,0,1,0,0,0
+train,0,0,1,0,0
+trainee,1,0,0,0,0
+trainer,0,0,1,0,0
+trampoline,0,0,1,0,0
+transaction,1,0,0,0,0
+treasurer,1,0,0,0,0
+treasury,1,0,0,0,0
+trend,1,0,0,0,0
+triathlete,0,0,1,0,0
+triathlon,0,0,1,0,0
+triple jump,0,0,1,0,0
+triple play,0,0,1,0,0
+triumph,0,0,1,0,0
+trophy,0,0,1,0,0
+troubled asset relief programme,1,0,0,0,0
+troupe,0,1,0,0,0
+tug of war,0,0,1,0,0
+turn something on its head,0,0,0,1,0
+turn-out,0,0,0,0,1
+turnover,1,0,0,0,0
+turnstile,0,0,1,0,0
+tycoon,0,0,0,0,1
+typeface,1,0,0,0,0
+typewriter,1,0,0,0,0
+tyranny,0,0,0,0,1
+ufc,0,0,1,0,0
+ugc,0,0,0,1,0
+ui,0,0,0,1,0
+ultramarathon,0,0,1,0,0
+ultramarathoner,0,0,1,0,0
+umpire,0,0,1,0,0
+underwriter,1,0,0,0,0
+unemployed,0,0,0,0,1
+unemployment,1,0,0,0,0
+unethical,0,0,0,0,1
+unicycle,0,0,1,0,0
+unicyclist,0,0,1,0,0
+uniform,0,0,1,0,0
+uniform resource locator,0,0,0,1,0
+union,1,0,0,0,0
+unionize,0,0,0,0,1
+unit cost,1,0,0,0,0
+unit trust,1,0,0,0,0
+united states capitol,0,0,0,0,1
+unjust,0,0,0,0,1
+unquoted shares,1,0,0,0,0
+unsavory,0,0,0,0,1
+upgrade,1,0,0,1,0
+upload,1,0,0,0,0
+upper class,0,0,0,0,1
+upper house,0,0,0,0,1
+url,0,0,0,1,0
+user experience,0,0,0,1,0
+user interface,0,0,0,1,0
+user-friendly,0,0,0,1,0
+user-generated content,0,0,0,1,0
+username,1,0,0,0,0
+ux,0,0,0,1,0
+vacancy,1,0,0,0,0
+vacation time,1,0,0,0,0
+value added tax,1,0,0,0,0
+variable rate mortgage,1,0,0,0,0
+variety,0,1,0,0,0
+vat,1,0,0,0,0
+vaudeville,0,1,0,0,0
+vault,0,0,1,0,0
+vaulter,0,0,1,0,0
+vaulting,0,0,1,0,0
+vector,0,0,0,1,0
+ventriloquism,0,1,0,0,0
+venture,1,0,0,0,0
+vertical merger,1,0,0,0,0
+veto,0,0,0,0,1
+vice president,0,0,0,0,1
+vice-president,1,0,0,0,0
+victory,0,0,1,0,0
+video conference,1,0,0,0,0
+video conferencing,0,0,0,1,0
+video game,0,1,0,0,0
+violinist,0,1,0,0,0
+virtual machine,0,0,0,1,0
+virtual private network,0,0,0,1,0
+virtual reality,0,0,0,1,0
+virus,0,0,0,1,0
+visiting team,0,0,1,0,0
+vm,0,0,0,1,0
+vocalist,0,1,0,0,0
+volley,0,0,1,0,0
+volley ball,0,0,1,0,0
+volleyball,0,0,1,0,0
+volume,1,0,0,0,0
+vote,0,0,0,0,1
+vote,0,0,0,0,1
+vpn,0,0,0,1,0
+vr,0,0,0,1,0
+vulture funds,1,0,0,0,0
+wakeboarding,0,0,1,0,0
+walk,0,0,1,0,0
+walker,0,0,1,0,0
+walking,0,0,1,0,0
+wall of death,0,1,0,0,0
+wall street,1,0,0,0,0
+waltzer,0,1,0,0,0
+warehouse party,0,1,0,0,0
+warranty,1,0,0,0,0
+wastebasket,1,0,0,0,0
+water polo,0,0,1,0,0
+water ski,0,0,1,0,0
+water skier,0,0,1,0,0
+water skiing,0,0,1,0,0
+watercolour,0,1,0,0,0
+waybill,1,0,0,0,0
+web,0,0,0,1,0
+website,0,0,0,1,0
+websites,0,0,0,1,0
+wedge issue,0,0,0,0,1
+weighted average,1,0,0,0,0
+weightlifter,0,0,1,0,0
+weightlifting,0,0,1,0,0
+weights,0,0,1,0,0
+welfare state,0,0,0,0,1
+western,0,1,0,0,1
+wetsuit,0,0,1,0,0
+whip,0,0,0,0,1
+whist drive,0,1,0,0,0
+whistle,0,0,1,0,0
+white house,0,0,0,0,1
+white knight,1,0,0,0,0
+white privilege,0,0,0,0,1
+white supremacy,0,0,0,0,1
+white water rafting,0,0,1,0,0
+whole-of-life policy,1,0,0,0,0
+wholesale,1,0,0,0,0
+wholesaler,1,0,0,0,0
+wi-fi,0,0,0,1,0
+wicket,0,0,1,0,0
+wifi,0,0,0,1,0
+wild west show,0,1,0,0,0
+win,0,0,1,0,0
+win-win,1,0,0,0,0
+windfall tax,1,0,0,0,0
+windsurfer,0,0,1,0,0
+windsurfing,0,0,1,0,0
+winner,0,0,1,0,0
+winning,0,0,1,0,0
+winter sports,0,0,1,0,0
+wireframe,0,0,0,1,0
+wireless,0,0,0,1,0
+wireless hotspots,0,0,0,1,0
+wireless technology,0,0,0,1,0
+withdraw,1,0,0,0,0
+withdrawal,1,0,0,0,0
+without-profits policy,1,0,0,0,0
+word processing,0,0,0,1,0
+work,1,0,0,0,0
+worker,1,0,0,0,0
+working class,0,0,0,0,1
+workroom,1,0,0,0,0
+workshop,0,1,0,0,0
+workspace,1,0,0,0,0
+world cup,0,0,1,0,0
+world series,0,0,1,0,0
+wrestler,0,0,1,0,0
+wrestling,0,0,1,0,0
+writer,0,1,0,0,0
+xenophobia,0,0,0,0,1
+yellow card,0,0,1,0,0
+yen carry trade,1,0,0,0,0
+yield,1,0,0,0,0
+zarzuela,0,1,0,0,0
+zero interest rates,1,0,0,0,0
+zombie funds,1,0,0,0,0
+zoo,0,1,0,0,0
+épée,0,0,1,0,0
