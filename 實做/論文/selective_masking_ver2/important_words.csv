@@ -3,7 +3,7 @@ word,business,entertainment,sport,tech,politics
 3d,0,1,0,0,0
 access,0,0,0,1,0
 access to the internet,0,0,0,1,0
-accoun,1,0,0,0,0
+account,1,1,0,1,0
 account number,1,0,0,0,0
 accountant,1,0,0,0,0
 accounting,1,0,0,0,0
