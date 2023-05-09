@@ -81,6 +81,7 @@ arena,0,0,1,0,0
 arithmetic mean,1,0,0,0,0
 arrow,0,0,1,0,0
 art,0,1,0,0,0
+artificial,0,0,0,1,0
 artificial intelligence,0,0,0,1,0
 artist,0,1,0,0,0
 aspiration,0,0,0,0,1
@@ -192,6 +193,9 @@ bribe,0,0,0,0,1
 bridging loan,1,0,0,0,0
 briefcase,1,0,0,0,0
 british retail consortium,1,0,0,0,0
+broadcast,0,0,0,1,0
+broadcaster,0,0,0,1,0
+broadcasters,0,0,0,1,0
 broker,1,0,0,0,0
 bronze medal,0,0,1,0,0
 browse,0,0,0,1,0
@@ -219,7 +223,8 @@ cac 40 index,1,0,0,0,0
 cache,0,0,0,1,0
 cadre,0,0,0,0,1
 cafe,0,1,0,0,0
-calculate,1,0,0,0,0
+calculate,1,0,0,1,0
+calculation,0,0,0,1,0
 camera,0,0,0,1,0
 campaign,0,0,0,0,1
 candidate,0,0,0,0,1
@@ -416,6 +421,7 @@ debit,1,0,0,0,0
 debit card,1,0,0,0,0
 decathlon,0,0,1,0,0
 deception,0,0,0,0,1
+deep learning,0,0,0,1,0
 defamation,0,0,0,0,1
 defeat,0,0,1,0,0
 defend,0,0,1,0,0
@@ -513,6 +519,7 @@ election campaign,0,0,0,0,1
 electoral college,0,0,0,0,1
 electoral register,0,0,0,0,1
 electorate,0,0,0,0,1
+electric,0,0,0,1,0
 electronic,0,0,0,1,0
 electronic funds transfer,0,0,0,1,0
 embedding,0,0,0,1,0
@@ -617,6 +624,7 @@ foreman,1,0,0,0,0
 formula 1,0,0,1,0,0
 forward,0,0,1,0,0
 foul,0,0,1,0,0
+frame,0,0,0,1,0
 framework,1,0,0,0,0
 frameworks,0,0,0,1,0
 fray,0,0,0,0,1
@@ -908,12 +916,14 @@ lose,0,0,1,0,0
 loser,0,0,1,0,0
 loss,1,0,1,0,0
 low,1,0,0,0,0
+low-power,0,0,0,1,0
 lower class,0,0,0,0,1
 lower house,0,0,0,0,1
 lucrative,1,0,0,0,0
 luge,0,0,1,0,0
 lutz,0,0,1,0,0
 machine,0,0,0,1,0
+machine learning,0,0,0,1,0
 macroeconomics,1,0,0,0,0
 magic,0,1,0,0,0
 magician,0,1,0,0,0
@@ -1139,6 +1149,7 @@ permanent interest-bearing shares (pibs),1,0,0,0,0
 persecution,0,0,0,0,1
 personal loan,1,0,0,0,0
 personnel,1,0,0,0,0
+phone,0,0,0,1,0
 photographs,0,1,0,0,0
 physique,0,0,1,0,0
 pianist,0,1,0,0,0
@@ -1190,6 +1201,7 @@ pool,0,0,1,0,0
 pop,0,1,0,0,0
 populism,0,0,0,0,1
 populist,0,0,0,0,1
+portable,0,0,0,1,0
 portfolio,1,0,0,0,0
 portrait,0,1,0,0,0
 position,1,0,0,0,0
@@ -1197,6 +1209,7 @@ postal vote,0,0,0,0,1
 postmodernist,0,1,0,0,0
 pound,1,0,0,0,0
 poverty trap,1,0,0,0,0
+power,0,0,0,1,0
 ppi,0,0,0,1,0
 pre-raphaelite,0,1,0,0,0
 precipice bonds,1,0,0,0,0
@@ -1237,6 +1250,7 @@ propaganda,0,0,0,0,1
 proportional representation,0,0,0,0,1
 proposal,1,0,0,0,0
 prospects,1,0,0,0,0
+protocol,0,0,0,1,0
 proxy,1,0,0,0,1
 pub,0,1,0,0,0
 public company,1,0,0,0,0
@@ -1266,6 +1280,7 @@ racism,0,0,0,0,1
 racket,0,0,1,0,0
 racquetball,0,0,1,0,0
 radical,0,0,0,0,1
+radio,0,0,0,1,0
 rafting,0,0,1,0,0
 rally,1,0,0,0,0
 random walk theory,1,0,0,0,0
@@ -1342,6 +1357,7 @@ rights issue,1,0,0,0,0
 rink,0,0,1,0,0
 risk,1,0,0,0,0
 road show,0,1,0,0,0
+robot,0,0,0,1,0
 robotics technology,0,0,0,1,0
 rock,0,1,0,0,0
 rock climbing,0,0,1,0,0
@@ -1637,6 +1653,7 @@ turn something on its head,0,0,0,1,0
 turn-out,0,0,0,0,1
 turnover,1,0,0,0,0
 turnstile,0,0,1,0,0
+tv,0,0,0,1,0
 tycoon,0,0,0,0,1
 typeface,1,0,0,0,0
 typewriter,1,0,0,0,0
@@ -1696,6 +1713,7 @@ video conference,1,0,0,0,0
 video conferencing,0,0,0,1,0
 video game,0,1,0,0,0
 violinist,0,1,0,0,0
+virtual,0,0,0,1,0
 virtual machine,0,0,0,1,0
 virtual private network,0,0,0,1,0
 virtual reality,0,0,0,1,0
@@ -1722,6 +1740,7 @@ waltzer,0,1,0,0,0
 warehouse party,0,1,0,0,0
 warranty,1,0,0,0,0
 wastebasket,1,0,0,0,0
+watch,0,0,0,1,0
 water polo,0,0,1,0,0
 water ski,0,0,1,0,0
 water skier,0,0,1,0,0
